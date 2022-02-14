@@ -2,7 +2,7 @@
 
 ## Project Links
 
-- [add your github repo link]()
+- [Github link](https://github.com/mrb5691/React-App.git)
 - [add your deployment link]()
 
 ## Project Description
@@ -25,8 +25,9 @@ https://db.ygoprodeck.com/api/v7/cardinfo.php
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your wireframes]()
-- [add link to your react architecture]()
+- [Mobile](https://i.postimg.cc/HsftF977/Screen-Shot-2022-02-14-at-3-07-24-PM.png)
+- [Desktop](https://i.postimg.cc/Y2DRzHrR/Screen-Shot-2022-02-14-at-2-45-08-PM.png)
+- [architecture](https://i.postimg.cc/TPxJ320d/Screen-Shot-2022-02-14-at-3-27-46-PM.png)
 
 
 ### MVP/PostMVP - 5min
